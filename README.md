@@ -38,4 +38,4 @@ function boasVindas(nome) {
 |html | sim | ativo |
 | Markdown | sim | ativo |
 
-![PC](win 98.jpg)
+![Imagem](
