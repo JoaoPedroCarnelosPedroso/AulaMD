@@ -37,3 +37,5 @@ function boasVindas(nome) {
 |:--- | :--- | :-- |
 |html | sim | ativo |
 | Markdown | sim | ativo |
+
+![PC](
