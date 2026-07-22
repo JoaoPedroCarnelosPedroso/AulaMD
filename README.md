@@ -38,4 +38,4 @@ function boasVindas(nome) {
 |html | sim | ativo |
 | Markdown | sim | ativo |
 
-![Imagem](
+![Imagem](BAHIA.jpg)
